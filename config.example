@@ -1,0 +1,9 @@
+[CarbonBlack]
+APIID = XXXXX
+APIKEY = YYYYYYYYYYY
+CBInstance = defense-<region>.conferdeploy.net
+OrgKey = ZZZZZZZZ
+OrgID = AAAAAAA
+
+[Options]
+Role = TD-Base
